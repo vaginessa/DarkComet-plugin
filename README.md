@@ -1,4 +1,6 @@
 # DarkComet-plugin
+![darkcomet-rat](https://user-images.githubusercontent.com/43011806/46427243-961fb300-c749-11e8-890f-8d359d1fb834.png)
+
 This plugin made for Green force soft on your hacker's USB.
 
 So the best way to start off your guide would be to explain what you will be working with first. So I will give you a quick explanation of Darkcomet, what it is and how it works. Darkcomet is a Remote Access Trojan or Remote Administration Tool. it is used mainly to gain access of a victim's PC but there are many uses for a RAT, I will provide most of them.
